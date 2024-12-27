@@ -1,4 +1,4 @@
-const Button = ({
+const Button= ({
   label,
   iconURL,
   backgroundColor,
